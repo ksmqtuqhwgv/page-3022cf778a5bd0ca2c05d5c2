@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8ca64c63b25a2a5ecc5e7222",
+  "owner": "ksmqtuqhwgv",
+  "repo": "page-3022cf778a5bd0ca2c05d5c2",
+  "title": "云顶号",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3022cf778a5bd0ca2c05d5c2",
+      "a": "云顶号",
+      "b": "机场官网线路发布页",
+      "entity": "云顶号",
+      "brand": "云顶号",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2bd4ec214047f479686a5673440000c42785e9ae0b70a6a60d02bff99ad8d188",
+      "content": {
+        "primary_entity": "云顶号",
+        "keyword1": "云顶号",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据常用设备选择对应客户端，按文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐，轻松接入。",
+          "AI_CLOSING_TITLE": "开启云顶号",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档选择，覆盖不同流量与设备数量需求。旗舰版搭载 IPLC 专线，适合对游戏延迟敏感的用户；团队版支持二十台设备与定制路由，方便小团队统一管理。所有套餐均可按年付享受优惠，客户端覆盖主流平台，导入订阅后按文档配置即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，适合轻度使用；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线，适合游戏和流媒体；团队版每月 1000GB、支持 20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "可以在多台设备上安装客户端，但同时在线数量受套餐限制：基础版 3 台、旗舰版 5 台、团队版 20 台。超出时需先断开其他设备。",
+          "AI_FAQ_ANSWER_3": "按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于每月分别约 ¥12.5、¥29、¥70。长期使用建议直接选择年付。",
+          "AI_FAQ_ANSWER_4": "安卓和 iOS 可在应用商店或 TestFlight 安装，Windows 与 macOS 下载桌面客户端，路由器需支持订阅导入。具体以各客户端文档说明为准，不同系统版本可能略有差异。",
+          "AI_FAQ_ANSWER_5": "流量用尽后节点会暂停服务，可升级套餐或等待下个周期重置。旗舰版与团队版用户可通过工单或专属客户经理咨询升级方式。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "云顶号各套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "手机和电脑客户端怎么选择？",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐、设备到订阅周期，三步理清选择思路。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850。按需匹配流量和设备数量。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，按家庭或个人设备数量选择合适档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更省费用。旗舰版含 IPLC 专线，团队版支持定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "套餐按需匹配",
+          "AI_FEATURE_TITLE_2": "设备数量对应",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选择套餐到完成配置，三步开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "云顶号提供基础版、旗舰版与团队版三档海外加速套餐，覆盖 100GB 到 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版搭载 IPLC 专线，适合游戏加速与高清流媒体；团队版提供定制路由，方便团队统一管理。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活加速",
+          "AI_HIGHLIGHT_1": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_2": "月付年付灵活选择",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版、旗舰版、团队版三档，流量、设备数与线路依次提升，按使用场景选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的节点类型与平台适配，确认设备是否支持订阅导入。",
+          "AI_STEP_TEXT_3": "下载对应客户端，按文档导入订阅链接，完成节点配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "云顶号多档加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dlhkand.cn",
+    "host": "dlhkand.cn"
+  },
+  "file_hashes": {
+    "index.html": "228d5b9bf2d66f35c0c5747654887fa5cd9bc6b15a48aadd0868aad144045cc1",
+    "sitemap.xml": "c402f6e9063ec809b530a2e95cf14ffb1636694e717bec66c8875e930cf2d420",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "be82364958ba3cac6443f59a39a6e1d8dccfd9060313bea3b689296fcad3e20b",
+    "robots.txt": "9ad0b4194c91a0dd9661989e39f039505a3b0100d6f70ee0158a8b46ca74bb6c",
+    "d9b1ec1eb8c4cd14ef50932edd855068.txt": "1367c17e277c8207e99182a0c7e15fe25b9e6b77666609cdd8197cf72c135da6"
+  },
+  "revision": "6788837a06b726d730a248784ddf3684cefea1dea9847ac15c9fc41ad897063b"
+}
